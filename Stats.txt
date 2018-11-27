@@ -1,0 +1,227 @@
+Created on: Thu Jul 26 11:54:31 2018
+Piece length: 524288
+Total: 812 MB
+Download time used: 0 s
+Peer IP: 80.109.139.34
+Peer IP: 65.182.224.39
+Peer IP: 89.202.42.62
+Peer IP: 185.56.20.33
+Peer IP: 81.171.22.66
+Peer IP: 5.79.77.30
+Peer IP: 87.122.244.8
+Peer IP: 95.67.189.252
+Peer IP: 122.61.182.101
+Peer IP: 188.166.246.160
+Peer IP: 119.17.141.29
+Peer IP: 37.110.34.74
+Peer IP: 185.21.217.49
+Peer IP: 185.43.244.3
+Peer IP: 85.17.29.115
+Peer IP: 202.216.21.94
+Peer IP: 88.133.15.111
+Peer IP: 88.118.168.11
+Peer IP: 94.253.13.31
+Peer IP: 83.139.148.23
+Peer IP: 90.186.241.28
+Peer IP: 46.166.143.74
+Peer IP: 5.228.129.62
+Peer IP: 188.165.139.131
+Peer IP: 24.51.161.53
+Peer IP: 71.254.156.169
+Peer IP: 163.172.117.222
+Peer IP: 202.153.213.68
+Peer IP: 176.9.37.132
+Peer IP: 46.182.109.197
+Peer IP: 66.58.240.18
+Peer IP: 93.81.244.64
+Peer IP: 66.228.41.23
+Peer IP: 185.149.90.62
+Peer IP: 87.118.112.136
+Peer IP: 188.143.18.60
+Peer IP: 217.91.79.7
+Peer IP: 188.192.2.15
+Peer IP: 108.51.127.44
+Peer IP: 213.222.162.220
+Peer IP: 72.49.183.61
+Peer IP: 193.110.114.148
+Peer IP: 81.171.8.89
+Peer IP: 54.38.201.89
+Peer IP: 195.154.226.139
+Peer IP: 31.43.102.143
+Peer IP: 194.68.191.200
+Peer IP: 185.21.217.76
+Peer IP: 67.191.132.60
+Download rate: 1020 K/s
+Download start up after: 0 s
+Peers count: 1672
+
+Download time used: 1 s
+Download time used: 2 s
+Download time used: 3 s
+Peer IP: 193.110.114.148
+Download time used: 4 s
+Download time used: 5 s
+Download time used: 6 s
+Download time used: 7 s
+Download time used: 8 s
+Download time used: 9 s
+Download time used: 10 s
+Download time used: 11 s
+Download time used: 12 s
+Download time used: 13 s
+Download time used: 14 s
+Download time used: 15 s
+Download time used: 16 s
+Download time used: 17 s
+Download time used: 18 s
+Download time used: 19 s
+Download time used: 20 s
+Download time used: 21 s
+Download time used: 22 s
+Download time used: 23 s
+Download time used: 24 s
+Download time used: 25 s
+Download time used: 26 s
+Download time used: 27 s
+Download time used: 28 s
+Download time used: 29 s
+Download time used: 30 s
+Download time used: 31 s
+Peer IP: 202.216.21.94
+Download time used: 32 s
+Peer IP: 213.152.161.15
+Peer IP: 163.172.39.206
+Peer IP: 77.188.21.147
+Peer IP: 80.243.103.57
+Peer IP: 141.126.129.123
+Peer IP: 5.228.129.62
+Peer IP: 185.21.217.45
+Peer IP: 62.251.25.5
+Peer IP: 94.253.13.31
+Peer IP: 50.224.157.174
+Peer IP: 185.81.166.160
+Peer IP: 185.56.20.222
+Peer IP: 92.220.115.115
+Peer IP: 90.94.213.228
+Peer IP: 108.16.33.245
+Peer IP: 24.150.80.115
+Peer IP: 173.239.230.9
+Peer IP: 47.196.115.184
+Peer IP: 24.51.161.53
+Peer IP: 188.192.2.15
+Peer IP: 88.91.219.240
+Peer IP: 104.50.45.22
+Peer IP: 109.226.233.112
+Peer IP: 188.242.189.112
+Peer IP: 180.151.143.32
+Peer IP: 86.115.8.210
+Peer IP: 91.65.12.170
+Peer IP: 62.133.194.138
+Peer IP: 187.121.197.174
+Peer IP: 103.224.116.250
+Peer IP: 71.65.204.221
+Peer IP: 108.51.127.44
+Peer IP: 46.148.186.202
+Peer IP: 185.148.3.165
+Peer IP: 197.50.161.63
+Peer IP: 5.196.71.54
+Peer IP: 79.157.49.95
+Peer IP: 154.57.10.191
+Peer IP: 173.239.230.87
+Peer IP: 178.64.196.50
+Peer IP: 89.212.17.215
+Peer IP: 198.27.189.109
+Peer IP: 195.154.226.139
+Peer IP: 193.30.122.52
+Peer IP: 87.13.108.35
+Peer IP: 185.23.150.12
+Peer IP: 157.158.90.247
+Peer IP: 46.234.67.156
+Peer IP: 176.231.79.232
+Download time used: 33 s
+Download time used: 34 s
+Download time used: 35 s
+Download time used: 36 s
+Download time used: 37 s
+Download time used: 38 s
+Download time used: 39 s
+Download time used: 40 s
+Download time used: 41 s
+Download time used: 42 s
+Download time used: 43 s
+Download time used: 44 s
+Download time used: 45 s
+Download time used: 46 s
+Download time used: 47 s
+Download time used: 48 s
+Peer IP: 81.171.17.42
+Peer IP: 46.188.49.98
+Peer IP: 91.149.211.112
+Peer IP: 91.134.201.199
+Peer IP: 86.8.246.38
+Peer IP: 46.166.143.74
+Peer IP: 51.15.180.116
+Peer IP: 50.27.249.152
+Peer IP: 37.187.124.21
+Peer IP: 217.19.25.165
+Peer IP: 73.109.50.152
+Peer IP: 67.191.132.60
+Peer IP: 95.211.211.116
+Peer IP: 72.180.80.97
+Peer IP: 185.21.217.74
+Peer IP: 94.130.184.253
+Peer IP: 46.246.123.70
+Peer IP: 72.49.183.61
+Peer IP: 85.17.29.115
+Peer IP: 175.143.155.240
+Peer IP: 173.239.230.87
+Peer IP: 75.174.7.23
+Peer IP: 37.110.34.74
+Peer IP: 87.140.73.81
+Peer IP: 212.181.170.177
+Peer IP: 5.228.129.62
+Peer IP: 94.11.170.196
+Peer IP: 94.253.13.31
+Peer IP: 150.246.31.54
+Peer IP: 90.186.241.28
+Peer IP: 46.182.109.197
+Peer IP: 188.240.24.136
+Peer IP: 184.155.66.134
+Peer IP: 46.234.67.156
+Peer IP: 220.235.47.159
+Peer IP: 89.1.50.48
+Peer IP: 93.81.244.64
+Peer IP: 175.156.181.232
+Peer IP: 84.157.30.174
+Peer IP: 198.84.145.109
+Peer IP: 85.214.130.168
+Peer IP: 83.162.189.199
+Peer IP: 143.159.72.89
+Peer IP: 163.172.174.142
+Peer IP: 54.37.180.103
+Peer IP: 83.217.134.189
+Peer IP: 51.15.179.160
+Peer IP: 84.55.67.136
+Peer IP: 163.172.117.222
+Peer IP: 92.220.115.115
+Download time used: 49 s
+Download time used: 50 s
+Download time used: 51 s
+Download time used: 52 s
+Download time used: 53 s
+Download time used: 54 s
+Download time used: 55 s
+Download time used: 56 s
+Download time used: 57 s
+Download time used: 58 s
+Download time used: 59 s
+Download time used: 60 s
+Download time used: 61 s
+Download time used: 62 s
+Download time used: 63 s
+Download time used: 64 s
+Download time used: 65 s
+Download time used: 66 s
+Download time used: 67 s
+Download time used: 68 s
+Download time used: 69 s
